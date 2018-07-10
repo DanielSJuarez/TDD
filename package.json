@@ -1,0 +1,25 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "Pair Programming and learning session",
+  "main": "index.js",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "jest": "^23.3.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielSJuarez/TDD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielSJuarez/TDD/issues"
+  },
+  "homepage": "https://github.com/DanielSJuarez/TDD#readme"
+}
